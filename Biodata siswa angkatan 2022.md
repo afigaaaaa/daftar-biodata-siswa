@@ -17,4 +17,4 @@ Nim   : 2205101088
 Jk    : Wedok
 Agama : Los antos
 TTL   : Kutub utara, 1 januari 1999
-Alamat: Jl.penyu Rt. 01 No. 2 
+Alamat: Jl.penyu Rt. 01 No. 2
